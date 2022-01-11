@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotflix", "dotflix\dotflix.csproj", "{3EC4406F-B7E6-48E6-9852-B5E118CCF939}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotflix-api", "dotflix-api\dotflix-api.csproj", "{73534699-7EA3-4492-B199-D8C23AD4D938}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EC4406F-B7E6-48E6-9852-B5E118CCF939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EC4406F-B7E6-48E6-9852-B5E118CCF939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EC4406F-B7E6-48E6-9852-B5E118CCF939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EC4406F-B7E6-48E6-9852-B5E118CCF939}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73534699-7EA3-4492-B199-D8C23AD4D938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73534699-7EA3-4492-B199-D8C23AD4D938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73534699-7EA3-4492-B199-D8C23AD4D938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73534699-7EA3-4492-B199-D8C23AD4D938}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F08F356B-F5A6-43E7-8D94-D78AD969F3DC}
+	EndGlobalSection
+EndGlobal

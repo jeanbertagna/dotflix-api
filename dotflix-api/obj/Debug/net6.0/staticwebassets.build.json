@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0/dE6qSDv+JA1qo9ZzprgK5pba79wKpNT0KK6H3O6Zk=",
+  "Source": "dotflix-api",
+  "BasePath": "_content/dotflix-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

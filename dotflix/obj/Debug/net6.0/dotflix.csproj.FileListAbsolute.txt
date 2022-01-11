@@ -1,0 +1,12 @@
+C:\dev\dio-dotflix\dotflix-api\dotflix\bin\Debug\net6.0\dotflix.deps.json
+C:\dev\dio-dotflix\dotflix-api\dotflix\bin\Debug\net6.0\dotflix.dll
+C:\dev\dio-dotflix\dotflix-api\dotflix\bin\Debug\net6.0\ref\dotflix.dll
+C:\dev\dio-dotflix\dotflix-api\dotflix\bin\Debug\net6.0\dotflix.pdb
+C:\dev\dio-dotflix\dotflix-api\dotflix\obj\Debug\net6.0\dotflix.csproj.AssemblyReference.cache
+C:\dev\dio-dotflix\dotflix-api\dotflix\obj\Debug\net6.0\dotflix.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\dio-dotflix\dotflix-api\dotflix\obj\Debug\net6.0\dotflix.AssemblyInfoInputs.cache
+C:\dev\dio-dotflix\dotflix-api\dotflix\obj\Debug\net6.0\dotflix.AssemblyInfo.cs
+C:\dev\dio-dotflix\dotflix-api\dotflix\obj\Debug\net6.0\dotflix.csproj.CoreCompileInputs.cache
+C:\dev\dio-dotflix\dotflix-api\dotflix\obj\Debug\net6.0\dotflix.dll
+C:\dev\dio-dotflix\dotflix-api\dotflix\obj\Debug\net6.0\ref\dotflix.dll
+C:\dev\dio-dotflix\dotflix-api\dotflix\obj\Debug\net6.0\dotflix.pdb
