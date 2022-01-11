@@ -15,5 +15,21 @@ namespace dotflix_api
         public int Year { get; set; }
 
         public bool Excluded { get; set; }
+
+
+        public LessonModel(Lesson lesson)
+        {
+            Id = lesson.returnId();
+            Category = lesson.returnCategory();
+            Title = lesson.resturnTitle();
+            Description = lesson.returnDescription();
+            Year = lesson.returnYear();
+            Excluded = lesson.returnExcluded();
+        }
+
+        public Lesson ToLesson()
+        {
+            return new Lesson(Id, Category, Title, Description, Year);
+        }
     }
 }

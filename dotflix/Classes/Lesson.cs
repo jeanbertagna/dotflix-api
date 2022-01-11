@@ -59,6 +59,22 @@ namespace DotFlix.Classes
         {
             return this.Excluded;
         }
+
+        public int returnYear()
+        {
+            return this.Year;
+        }
+
+        public string returnDescription()
+        {
+            return this.Description;
+        }
+
+        public Category returnCategory()
+        {
+            return this.Category;
+        }
+
         // Marks the register Excluded with True
         public void ToExclude()
         {
